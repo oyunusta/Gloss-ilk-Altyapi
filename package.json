@@ -1,0 +1,40 @@
+{
+  "name": "emirhansarac",
+  "version": "0.0.1",
+  "main": "gloss.js",
+  "scripts": {
+    "test": "node gloss.js"
+  },
+  "author": "emirhansaracc",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "canvas-constructor": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "generate-password": "^1.5.1",
+    "is-url": "^1.2.4",
+    "moment": "^2.29.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.10",
+    "os": "^0.1.1",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.2",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4",
+    "steam-provider": "^0.3.2",
+    "tiktok-status-api": "^1.0.3",
+    "weather-js": "^2.0.0",
+    "wio.db": "^4.0.9"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
